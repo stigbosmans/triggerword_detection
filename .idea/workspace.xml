@@ -2,8 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c19dd6ae-c7d3-4796-b1b6-93a1dfa3ffc0" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/data/background/straffic/ch01.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/background/straffic/ch02.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/background/straffic/ch03.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/background/straffic/ch04.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/background/straffic/ch05.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/background/straffic/ch06.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/background/straffic/ch07.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/background/straffic/ch08.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/background/straffic/ch09.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/background/straffic/ch10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/background/straffic/ch11.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/background/straffic/ch12.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/background/straffic/ch13.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/background/straffic/ch14.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/background/straffic/ch15.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/background/straffic/ch16.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/background/tmetro/ch01.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/background/tmetro/ch02.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/background/tmetro/ch03.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/background/tmetro/ch04.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/background/tmetro/ch05.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/background/tmetro/ch06.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/background/tmetro/ch07.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/background/tmetro/ch08.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/background/tmetro/ch09.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/background/tmetro/ch10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/background/tmetro/ch11.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/background/tmetro/ch12.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/background/tmetro/ch13.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/background/tmetro/ch14.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/background/tmetro/ch15.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/background/tmetro/ch16.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/test.wav" afterPath="$PROJECT_DIR$/data/test.wav" />
+      <change beforePath="$PROJECT_DIR$/triggerword.ipynb" afterPath="$PROJECT_DIR$/triggerword.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,9 +77,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="940" />
-    <option name="height" value="972" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1307" />
+    <option name="y" value="78" />
+    <option name="width" value="930" />
+    <option name="height" value="971" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -64,7 +99,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -72,22 +107,11 @@
               <item name="triggerword" type="b2602c69:ProjectViewProjectNode" />
               <item name="triggerword" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="triggerword" type="b2602c69:ProjectViewProjectNode" />
-              <item name="triggerword" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="triggerword" type="b2602c69:ProjectViewProjectNode" />
-              <item name="triggerword" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="background" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -162,17 +186,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="974" extended-state="6" />
-    <editor active="true" />
+    <frame x="1307" y="78" width="930" height="971" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3328125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.91612905" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979593" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2489796" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36526945" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33890215" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3420408" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -197,6 +220,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
